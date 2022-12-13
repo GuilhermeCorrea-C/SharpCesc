@@ -1,0 +1,10 @@
+Lucas;12;m
+Jose;14;m
+Maria;16;f
+Marcos;20;m
+Fernanda;20;f
+hihf;15;f
+Guilherme;21;m
+Sophia;20;f
+eueu;12;m
+asdff;19;m

@@ -1,0 +1,8 @@
+Lucas;12;m;false
+Jose;14;m;false
+Maria;16;f;false
+Marcos;20;m;false
+Fernanda;20;f;false
+Guilherme;21;m;true;20;2
+dependente;Sophia;20;f
+dependente;eueu;12;m
